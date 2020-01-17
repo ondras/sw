@@ -1,0 +1,8 @@
+{
+	"name": "Service Worker Test",
+	"short_name": "SW Test",
+	"start_url": ".",
+	"display": "standalone",
+	"theme_color": "#def",
+	"background_color": "#def"
+}
